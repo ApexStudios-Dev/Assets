@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"presents_stack_1": "fantasyfurniture:models/decorations/presents_stack_1",
-		"particle": "fantasyfurniture:particles/decorations/presents_1"
+		"particle": "fantasyfurniture:particles/decorations/presents_stack_1"
 	},
 	"elements": [
 		{

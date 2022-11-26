@@ -2,7 +2,7 @@
 	"credit": "Made by Fantasy",
 	"textures": {
 		"presents_stack_2": "fantasyfurniture:models/decorations/presents_stack_2",
-		"particle": "fantasyfurniture:particles/decorations/presents_2"
+		"particle": "fantasyfurniture:particles/decorations/presents_stack_2"
 	},
 	"elements": [
 		{
